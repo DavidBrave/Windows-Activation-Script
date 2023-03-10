@@ -7,3 +7,5 @@
 - Run as adminstrator
 - Wait...
 - Profit?
+
+Nevermind. Just go to https://github.com/massgravel/Microsoft-Activation-Scripts

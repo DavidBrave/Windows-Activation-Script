@@ -1,2 +1,9 @@
 # Windows-Activation-Script
-Me Crack Windows
+
+- Connect to internet with no proxy (use phone data etc...)
+- Download .txt
+- Change extension to .bat
+- Right click .bat
+- Run as adminstrator
+- Wait...
+- Profit?
